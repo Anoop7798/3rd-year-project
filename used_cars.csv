@@ -1,0 +1,63 @@
+name,year,selling_price,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats
+Maruti Swift Dzire VDI,2014,450000,145000,Diesel,Individual,Manual,First Owner,23.4,1248,74,5
+Hyundai i20 Sportz,2017,550000,70000,Petrol,Individual,Manual,First Owner,18.6,1197,81,5
+Honda City V MT,2016,750000,60000,Petrol,Dealer,Manual,First Owner,17.4,1497,117,5
+Toyota Innova Crysta,2018,1450000,80000,Diesel,Dealer,Manual,First Owner,15.6,2393,148,7
+Tata Tiago Revotron,2019,480000,35000,Petrol,Individual,Manual,First Owner,23.84,1199,84,5
+Ford EcoSport 1.5 Diesel,2017,650000,72000,Diesel,Dealer,Manual,First Owner,21.7,1498,98,5
+Hyundai Creta 1.6,2019,1050000,45000,Diesel,Dealer,Automatic,First Owner,20.5,1582,126,5
+Maruti Alto 800,2016,260000,55000,Petrol,Individual,Manual,Second Owner,24.7,796,47,5
+Renault Kwid RXT,2018,330000,40000,Petrol,Individual,Manual,First Owner,22.7,999,67,5
+Mahindra Scorpio S11,2019,1250000,60000,Diesel,Dealer,Manual,First Owner,15.4,2179,140,7
+
+
+Maruti Swift Dzire VDI,2014,450000,145000,Diesel,Individual,Manual,First Owner,23.4,1248,74,5
+Hyundai i20 Sportz,2017,550000,96848,Petrol,Individual,Manual,First Owner,18.6,1197,81,5
+Honda City V MT,2016,750000,122374,Petrol,Dealer,Manual,First Owner,17.4,1497,117,5
+Toyota Innova Crysta,2018,1450000,89502,Diesel,Dealer,Manual,First Owner,15.6,2393,148,7
+Tata Tiago Revotron,2019,480000,124671,Petrol,Individual,Manual,First Owner,23.84,1199,84,5
+Ford EcoSport 1.5 Diesel,2017,650000,111757,Diesel,Dealer,Manual,First Owner,21.7,1498,98,5
+Hyundai Creta 1.6,2019,1050000,93233,Diesel,Dealer,Automatic,First Owner,20.5,1582,126,5
+Maruti Alto 800,2016,260000,100510,Petrol,Individual,Manual,Second Owner,24.7,796,47,5
+Renault Kwid RXT,2018,330000,98951,Petrol,Individual,Manual,First Owner,22.7,999,67,5
+Mahindra Scorpio S11,2019,1250000,116699,Diesel,Dealer,Manual,First Owner,15.4,2179,140,7
+Maruti Baleno Delta,2020,490000,78692,Petrol,Individual,Manual,First Owner,21.0,1197,82,5
+Hyundai Verna SX,2018,470000,107880,Petrol,Dealer,Manual,First Owner,17.7,1591,123,5
+Tata Nexon XZ,2020,510000,86839,Diesel,Dealer,Manual,First Owner,21.5,1497,108,5
+Kia Seltos HTK,2021,780000,87704,Petrol,Dealer,Manual,First Owner,16.8,1497,113,5
+Toyota Etios Liva,2015,420000,129270,Diesel,Individual,Manual,Second Owner,23.6,1364,67,5
+Maruti Wagon R VXI,2017,430000,111611,Petrol,Individual,Manual,First Owner,22.5,1197,81,5
+Honda Amaze VX,2019,490000,96614,Diesel,Individual,Manual,First Owner,23.8,1498,99,5
+Renault Duster RXZ,2018,460000,94239,Diesel,Dealer,Manual,First Owner,19.6,1461,108,5
+Volkswagen Polo Highline,2017,430000,114162,Petrol,Individual,Manual,First Owner,18.2,1198,74,5
+Skoda Rapid Style,2019,490000,85762,Diesel,Dealer,Manual,First Owner,21.1,1498,110,5
+Maruti Vitara Brezza VDI,2018,450000,95099,Diesel,Individual,Manual,First Owner,24.3,1248,89,5
+Hyundai Grand i10 Sportz,2016,410000,142952,Petrol,Individual,Manual,Second Owner,18.9,1197,82,5
+Honda WR-V VX,2019,490000,84585,Diesel,Dealer,Manual,First Owner,23.7,1498,98,5
+Tata Harrier XZ,2020,780000,109916,Diesel,Dealer,Manual,First Owner,16.3,1956,168,5
+MG Hector Smart,2021,780000,76050,Petrol,Dealer,Manual,First Owner,15.8,1451,141,5
+Maruti Celerio VXI,2018,440000,104382,Petrol,Individual,Manual,First Owner,23.1,998,66,5
+Hyundai Venue SX,2020,490000,95738,Petrol,Individual,Manual,First Owner,18.2,1197,118,5
+Mahindra XUV500 W10,2017,720000,144191,Diesel,Dealer,Manual,Second Owner,15.1,2179,140,7
+Toyota Fortuner 4x4,2018,1140000,121132,Diesel,Dealer,Automatic,First Owner,14.2,2755,174,7
+Maruti Ertiga VDI,2019,720000,110676,Diesel,Individual,Manual,First Owner,25.5,1248,88,7
+Honda Jazz V,2017,430000,96842,Petrol,Individual,Manual,First Owner,18.2,1199,90,5
+Tata Altroz XM,2021,510000,64464,Petrol,Individual,Manual,First Owner,19.3,1199,85,5
+Hyundai Aura S,2020,490000,73751,Petrol,Dealer,Manual,First Owner,20.5,1197,82,5
+Ford Endeavour Titanium,2018,860000,111012,Diesel,Dealer,Automatic,First Owner,13.9,1996,168,7
+Nissan Magnite XV,2021,500000,80524,Petrol,Individual,Manual,First Owner,18.75,999,98,5
+Kia Sonet HTX,2021,530000,68790,Diesel,Dealer,Manual,First Owner,19.0,1493,100,5
+Maruti Ignis Alpha,2019,470000,95235,Petrol,Individual,Manual,First Owner,20.9,1197,82,5
+Hyundai Elantra SX,2017,570000,144158,Diesel,Dealer,Automatic,Second Owner,22.7,1582,126,5
+Tata Tigor XZ,2018,450000,125331,Petrol,Individual,Manual,First Owner,20.3,1199,84,5
+Honda Civic VX,2019,620000,108537,Petrol,Dealer,Automatic,First Owner,16.5,1799,141,5
+Maruti S-Cross Zeta,2019,,106646,Diesel,Individual,Manual,First Owner,25.1,1248,89,5
+Hyundai Alcazar Prestige,2022,,61499,Diesel,Dealer,Automatic,First Owner,20.4,1493,113,7
+Toyota Glanza G,2020,,86493,Petrol,Individual,Manual,First Owner,21.0,1197,89,5
+Mahindra Thar LX,2021,,94460,Diesel,Dealer,Manual,First Owner,15.2,2184,130,4
+Renault Triber RXZ,2020,,80420,Petrol,Individual,Manual,First Owner,20.0,999,72,7
+Volkswagen Vento Highline,2018,,88169,Petrol,Dealer,Manual,First Owner,17.7,1598,103,5
+Skoda Kushaq Style,2022,,52384,Petrol,Dealer,Automatic,First Owner,17.95,1498,148,5
+Maruti Ciaz Alpha,2019,,99775,Diesel,Individual,Manual,First Owner,28.1,1248,89,5
+Hyundai Tucson GLS,2019,,78707,Diesel,Dealer,Automatic,First Owner,18.4,1995,182,5
+Tata Punch Accomplished,2022,,69895,Petrol,Individual,Manual,First Owner,18.97,1199,86,5
